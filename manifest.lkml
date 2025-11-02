@@ -1,20 +1,20 @@
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "darius-test-cortex-sap"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project ID"
+  value: "sea-ml-hub"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "darius_test_cortex_sap_reporting"
   export: override_required
 }
 
 constant: CLIENT {
-  value: "Client ID"
+  value: "100"
   export: override_required
 }
 
