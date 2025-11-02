@@ -1,5 +1,5 @@
 # Define the database connection to be used for this model.
-connection: "@{CONNECTION_NAME}"
+connection: "darius-test-cortex-sap"
 
 # include all the views
 include: "/views/**/*.view"
