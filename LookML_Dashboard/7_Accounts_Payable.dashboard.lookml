@@ -46,7 +46,7 @@
     height: 1
   - title: Total Due Amount
     name: Total Due Amount
-    model: cortex_sap_operational
+    model: darius_test_cortex_sap
     explore: accounts_payable_v2
     type: single_value
     fields: [accounts_payable_v2.total_due]
